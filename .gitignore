@@ -15,3 +15,5 @@ uadfv-new/*
 data/
 dataset/
 datasets/
+__pycache__/
+*.pyc
